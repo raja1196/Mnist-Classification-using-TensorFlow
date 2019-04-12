@@ -35,7 +35,7 @@ To run the code, First initialize the virtual environment used to install tensor
 
 If no error is observed, we can see an output like this.  
 
-![alt text](https://github.ncsu.edu/rthiruv/Mnist-Classification-using-TensorFlow/blob/master/Accuracy.JPG)
+![alt text](https://github.com/raja1196/Mnist-Classification-using-TensorFlow/blob/master/Accuracy.JPG)
 
 ## Authors
 
