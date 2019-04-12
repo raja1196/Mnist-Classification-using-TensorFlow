@@ -39,7 +39,7 @@ If no error is observed, we can see an output like this.
 
 ## Authors
 
-* **Rajaram Sivaramakrishnan** - [rthiruv](https://github.ncsu.edu/rthiruv)
+* **Rajaram Sivaramakrishnan** - [raja1196](https://github.com/raja1196)
 
 ## License
 
